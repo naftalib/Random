@@ -1,6 +1,10 @@
+		
 		body {
 			
-			font-family: sans-serif;
+	
+		font-family: sans-serif;
+		
+	
 		}
 	
 		#shape {
@@ -16,4 +20,18 @@
 		.bold{
 			
 			font-weight: bold;
+	
 		}
+
+		#container{
+			
+		    font-size: 1em;
+		    font-weight: bold;
+		    align-items: center;
+   			justify-content: center;
+   			 border: 1px solid #c3c3c3;
+   			position: absolute;
+			align-content: center;
+		}
+		
+		
